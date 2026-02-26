@@ -71,7 +71,19 @@ El objetivo principal de este estudio será, evidentemente aumentar las ventas d
 
 ### Metodología
 
+- Encuestas sobre si se ha encontrado el plato que se buscaba.
+- Métricas sobre el número de reservas respecto al número de visitas de la web.
 
+
+### Perfil de los usuarios
+Personas interesadas en la cultura y la comida japonesa. Probablemente jóvenes. También la familia de estas personas, que van a estar acompañados de esta persona joven.
+
+### Tareas
+
+- Reservar mesa.
+- Ver horario.
+- Consultar la carta y los menús, incluyendo alérgenos de los alimentos.
+- Pedidos a domicilio.
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
