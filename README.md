@@ -49,16 +49,18 @@ Miembros y nombre del equipo:
 
 # Proceso de Diseño 
 
-
+En este proyecto nos vamos a centrar en el entorno de la restauración, concretamente en el ambito de los restaurantes japoneses ambientados en la cultura pop de Japón. Nuestro restaurante tendrá temática de Pokemon, con platos basados en especies y movimientos de la serie. Como tal, la página web estará ambientada en dicha franquicia.
 
 
 
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
+### 1.a User Reseach Plan
+---
 
 
-En este proyecto nos vamos a centrar en el entorno de la restauración, concretamente en el ambito de los restaurantes japoneses. Con este analisis queremos comprender el tipo de clientela que podria estar interesada en etse tipo de comida. Para ello queremos comprender los intereses de la gente y también poder hacerlo atractivo hacia otro público que en un principio no estaba interesado.
+ Con este analisis queremos comprender el tipo de clientela que podria estar interesada en etse tipo de comida. Para ello queremos comprender los intereses de la gente y también poder hacerlo atractivo hacia otro público que en un principio no estaba interesado.
 Para ello vamos a crear una página web que nos permita llegar a más tipos de usuarios. 
 
 ### Objetivos
@@ -71,7 +73,7 @@ El objetivo principal de este estudio será, evidentemente aumentar las ventas d
 
 ### Metodología
 
-- Encuestas sobre si se ha encontrado el plato que se buscaba.
+- Encuestas a los clientes, con preguntas demográficas, como su edad o género, y acerca de su experiencia con la web, como si se ha encontrado el plato que se buscaba.
 - Métricas sobre el número de reservas respecto al número de visitas de la web.
 
 
@@ -85,16 +87,9 @@ Personas interesadas en la cultura y la comida japonesa. Probablemente jóvenes.
 - Consultar la carta y los menús, incluyendo alérgenos de los alimentos.
 - Pedidos a domicilio.
 
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
-
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
+
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
