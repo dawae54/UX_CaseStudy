@@ -104,6 +104,8 @@ Runni Akihabara | Distintos palatos japoneses | Venta en tienda física | Web en
 
 Como conclusión, el restaurante que posee una mejor página web con las mejores características o criterios es Anime Ramen.
 
+![Competitive research](P1/imagenes/competitor_analysis.png)
+
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
