@@ -93,7 +93,24 @@ Personas interesadas en la cultura y la comida japonesa. Probablemente jóvenes.
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
+Hemos realizado un analisis competitivo de tres restaurantes japoneses de estetica anime de entre los cuales hemos tomado de referente el restaurante Anime Ramen puesto de ejemplo.
+Como competidores hemos elegido los restaurantes Buga Ramen y  Runni Akihabara, que mantienen la misma estetica y hemos realizado un analisis de las páginas webs de cada uno de ellos.
 
+Proyecto | Productos | Modelo de negocio | Usabilidad | Experiencia de compra | Estrategia de comunicación
+--- | --- | --- | --- | --- | ---
+Anime Ramen | Distintos platos japoneses, con una especializacón clara en el ramen como producto principal | Para disfrutar en el establecimiento o llevar a domicilio | Web simple que sirve para hacer reserva en los restaurantes y para realizar pedidos. Aunque podría mejorar la accesibilidad a la carta del restaurante | Puedes seleccionar entre distintos tipos de comida pudiendo escoger a traves de un filtro el tipo de plato que deseas añadir a tu pedido | Comunicación intuitiva en la mayoria de aspectos de la web 
+Buga Ramen | Distintos platos japoneses | Venta en tienda física | Diseño sencillo aunque un poco enrevesado si quieres acceder a la carta desde la página principal a través del enlace que no está en la cabecera te remite a tu cuenta de google para poder visionar las imagenes de las hojas de la carta, mientrás que accedes desde la cabecera accedes a una pagina web más facil de navegar | No se pueden realizar pedidos a través de la página web | Comunicación un poco enrevesada, se le da poco incapie a lo que realmente es importante(el producto)
+Runni Akihabara | Distintos palatos japoneses | Venta en tienda física | Web en la que puedes realizar reservas y ver la carta, aunque al ser una carta en formatao pdf no tiene filtros que puedan ayudar a clasificar los distintos platos de comida | No se pueden realizar pedidos a través de la página web | Comunicación simple que proporciona el tipo de servicio de manera intuitiva
+
+Como conclusión, el restaurante que posee una mejor página web con las mejores características o criterios es Anime Ramen.
+
+<<<<<<< HEAD
+![Alt text](imagenes/imagen.png)
+
+=======
+![Competitive research](P1/imagenes/competitor_analysis.png)
+
+>>>>>>> c7d068b56f5872f545fc85c4d452229e79032c76
 ### 1.c Personas
 #### María Pérez
 ![María Pérez](P1/img/persona1.svg)
