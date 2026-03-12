@@ -119,7 +119,7 @@ Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extran
 
 ### 1.d User Journey Map
 ![María Pérez Journey](P1/img/journeyMap1.svg) 
-Aunque ha habido algunas asperezas, la experiencia final ha terminado siendo positiva. Cualquier persona que venga a comer en familia probablemente tenga una experiencia similar.
+No poder reservar online ha sido un problema importante. Esto es aplicable a cualquier persona.
 
 ![Mia Patiño](P1/imagenes/userJourney2.svg)
 
