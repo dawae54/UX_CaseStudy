@@ -95,8 +95,12 @@ Personas interesadas en la cultura y la comida japonesa. Probablemente jóvenes.
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+#### María Pérez
+![María Pérez](P1/img/persona1.svg)
+Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extranjeras, aunque no precisamente la cultura pop. Aunque no se lleva muy bien con los dispositivos inteligentes, confía en sus hijos cuando tiene problemas con ellos.
+
 -----
+
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
