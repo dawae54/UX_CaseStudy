@@ -104,27 +104,21 @@ Runni Akihabara | Distintos palatos japoneses | Venta en tienda física | Web en
 
 Como conclusión, el restaurante que posee una mejor página web con las mejores características o criterios es Anime Ramen.
 
-<<<<<<< HEAD
-![Alt text](imagenes/imagen.png)
-
-=======
 ![Competitive research](P1/imagenes/competitor_analysis.png)
 
->>>>>>> c7d068b56f5872f545fc85c4d452229e79032c76
 ### 1.c Personas
 #### María Pérez
 ![María Pérez](P1/img/persona1.svg)
 Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extranjeras, aunque no precisamente la cultura pop. Aunque no se lleva muy bien con los dispositivos inteligentes, confía en sus hijos cuando tiene problemas con ellos.
 
------
 
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
+![María Pérez Journey](P1/img/journeyMap1.svg) 
+Aunque ha habido algunas asperezas, la experiencia final ha terminado siendo positiva. Cualquier persona que venga a comer en familia probablemente tenga una experiencia similar.
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
