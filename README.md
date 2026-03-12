@@ -112,7 +112,7 @@ Como conclusión, el restaurante que posee una mejor página web con las mejores
 Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extranjeras, aunque no precisamente la cultura pop. Aunque no se lleva muy bien con los dispositivos inteligentes, confía en sus hijos cuando tiene problemas con ellos.
 
 ![Mia Patiño](P1/imagenes/persona2.svg)
-
+Como podemos observar Mia le gusta tanto el gaming como el anime, características que pueden implicar que pueda estar interesada en nuestro restaurante PokePoké.
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
@@ -122,6 +122,9 @@ Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extran
 No poder reservar online ha sido un problema importante. Esto es aplicable a cualquier persona.
 
 ![Mia Patiño](P1/imagenes/userJourney2.svg)
+Aunque en un principio parecía haber estado interasada,
+tras haber tardado en encontrar la página y descubrir que el enlace a la parte de reservas te lleva a una página que te dice que el restaurante no acepta reservas online decide abandonar la página para buscar una mejor opción.
+
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
