@@ -107,7 +107,7 @@ Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, hab
 * Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150-300 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
 
 <br>
-Tras analizar el sitio web de la competencia, [animeramen](https://animeramen.com/)
+
 
 
 ## Recursos 

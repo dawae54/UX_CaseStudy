@@ -17,17 +17,13 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
 
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU1_Palillos.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+El Poké de las cosas
 
 Descripción: 
 
@@ -38,8 +34,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Daniel Villalobos Rueda     :octocat:     
+ * :bust_in_silhouette:  Álvaro Berenguer Cobo     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -90,9 +86,6 @@ Personas interesadas en la cultura y la comida japonesa. Probablemente jóvenes.
 ### 1.b Competitive Analysis
 -----
 
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
 Hemos realizado un analisis competitivo de tres restaurantes japoneses de estetica anime de entre los cuales hemos tomado de referente el restaurante Anime Ramen puesto de ejemplo.
 Como competidores hemos elegido los restaurantes Buga Ramen y  Runni Akihabara, que mantienen la misma estetica y hemos realizado un analisis de las páginas webs de cada uno de ellos.
 
@@ -114,31 +107,29 @@ Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extran
 ![Mia Patiño](P1/imagenes/persona2.svg)
 Como podemos observar Mia le gusta tanto el gaming como el anime, características que pueden implicar que pueda estar interesada en nuestro restaurante PokePoké.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
 
 ### 1.d User Journey Map
 ![María Pérez Journey](P1/img/journeyMap1.svg) 
-No poder reservar online ha sido un problema importante. Esto es aplicable a cualquier persona.
+No poder reservar online ha sido un problema importante. Aún así, finalmente ha podido reservar por teléfono y disfrutar de la comida con su familia.
 
 ![Mia Patiño](P1/imagenes/userJourney2.svg)
 Aunque en un principio parecía haber estado interasada,
 tras haber tardado en encontrar la página y descubrir que el enlace a la parte de reservas te lleva a una página que te dice que el restaurante no acepta reservas online decide abandonar la página para buscar una mejor opción.
 
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
-<br>
+Tras analizar el sitio web de la competencia, [animeramen](https://animeramen.com/), hemos obenido los siguientes puntos fuertes y débiles:
+- Las secciones están claras y la página es fácil de navegar: tiene suficientemente pocas secciones como para caber todas en la cabecera, por lo que no hay pérdida para encontrar cualquier cosa. Sin embargo, la mayoría de ellas son parte de una misma página, lo que impide al usuario usar las funciones estándar del navegador para, por ejemplo, volver al inicio.
+- En la página principal la cabecera es visible todo el tiempo, lo que permite ver en qué sección estás y desplazarte rápidamente a otra sección, pero la sección actual no destaca demasiado.
+- La carta está bien organizada, según el tipo de comida, por lo que no es difícil encontrar un plato concreto, pero le falta una función de búsqueda que permita encontrarlo más rápidamente.
+- Algo molesto en la carta, es que necesitas proporcionar los detalles de tu domicilio, o elegir un local (como si fueras a pedir a domicilio o a reservar mesa) para poder ver los detalles de los platos.
+- Una cosa sin sentido es que hay un botón de reserva online para cada uno de los tres locales que tienen, cuando solo uno de ellos admite reservas online. Los otros dos conducen a un sitio que dice que no se admiten reservas online.
+
+En conclusión, este sitio tiene algunos puntos fuertes, pero tiene otros mejorables, que es lo que aprovecharemos para hacer nuestro sitio web más agradable.
 
 ## Paso 2. UX Design  
 
