@@ -91,9 +91,9 @@ Como competidores hemos elegido los restaurantes Buga Ramen y  Runni Akihabara, 
 
 Proyecto | Productos | Modelo de negocio | Usabilidad | Experiencia de compra | Estrategia de comunicación
 --- | --- | --- | --- | --- | ---
-Anime Ramen | Distintos platos japoneses, con una especializacón clara en el ramen como producto principal | Para disfrutar en el establecimiento o llevar a domicilio | Web simple que sirve para hacer reserva en los restaurantes y para realizar pedidos. Aunque podría mejorar la accesibilidad a la carta del restaurante | Puedes seleccionar entre distintos tipos de comida pudiendo escoger a traves de un filtro el tipo de plato que deseas añadir a tu pedido | Comunicación intuitiva en la mayoria de aspectos de la web 
-Buga Ramen | Distintos platos japoneses | Venta en tienda física | Diseño sencillo aunque un poco enrevesado si quieres acceder a la carta desde la página principal a través del enlace que no está en la cabecera te remite a tu cuenta de google para poder visionar las imagenes de las hojas de la carta, mientrás que accedes desde la cabecera accedes a una pagina web más facil de navegar | No se pueden realizar pedidos a través de la página web | Comunicación un poco enrevesada, se le da poco incapie a lo que realmente es importante(el producto)
-Runni Akihabara | Distintos palatos japoneses | Venta en tienda física | Web en la que puedes realizar reservas y ver la carta, aunque al ser una carta en formatao pdf no tiene filtros que puedan ayudar a clasificar los distintos platos de comida | No se pueden realizar pedidos a través de la página web | Comunicación simple que proporciona el tipo de servicio de manera intuitiva
+Anime Ramen | Distintos platos japoneses, con una especializacón clara en el ramen como producto principal | Para disfrutar en el establecimiento o llevar a domicilio | Web simple que sirve para hacer reserva en los restaurantes y para realizar pedidos. Aunque podría mejorar la accesibilidad a la carta del restaurante | Puedes seleccionar entre distintos tipos de comida, pudiendo escoger a traves de un filtro el tipo de plato que deseas añadir a tu pedido. | Comunicación intuitiva en la mayoria de aspectos de la web 
+Buga Ramen | Distintos platos japoneses | Para tomar en el establecimiento | Diseño sencillo aunque un poco enrevesado. Si quieres acceder a la carta desde la página principal, a través del enlace que no está en la cabecera, te remite a tu cuenta de google para poder visionar las imagenes de las hojas de la carta. Sin embargo, puedes desde la cabecera acceder a una pagina web más facil de navegar. | No se pueden realizar pedidos a través de la página web | Comunicación poco clara, se le da poco incapie a lo que realmente es importante (el producto).
+Runni Akihabara | Distintos platos japoneses | Para tomar en el establecimiento | Web en la que puedes realizar reservas y ver la carta, aunque al ser una carta en formato pdf no tiene filtros que puedan ayudar a clasificar los distintos platos de comida | No se pueden realizar pedidos a través de la página web | Comunicación simple que proporciona el tipo de servicio de manera intuitiva
 
 Como conclusión, el restaurante que posee una mejor página web con las mejores características o criterios es Anime Ramen.
 
@@ -105,7 +105,7 @@ Como conclusión, el restaurante que posee una mejor página web con las mejores
 Madre de 2 hijos y profesora de biología, le gusta viajar y las culturas extranjeras, aunque no precisamente la cultura pop. Aunque no se lleva muy bien con los dispositivos inteligentes, confía en sus hijos cuando tiene problemas con ellos.
 
 ![Mia Patiño](P1/imagenes/persona2.svg)
-Como podemos observar Mia le gusta tanto los videojuegos como el anime, características que pueden implicar que pueda estar interesada en nuestro restaurante PokePoké.
+Como podemos observar a Mia le gustan tanto los videojuegos como el anime, características que pueden implicar que pueda estar interesada en nuestro restaurante PokePoké.
 
 
 ### 1.d User Journey Map
