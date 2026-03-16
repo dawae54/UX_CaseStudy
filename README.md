@@ -114,7 +114,7 @@ No poder reservar online ha sido un problema importante. Aún así, finalmente h
 
 ![Mia Patiño](P1/imagenes/userJourney2.svg)
 Aunque en un principio parecía haber estado interasada,
-tras haber tardado en encontrar la carta y descubrir que el enlace a la parte de reservas te lleva a una página que te dice que el restaurante no acepta reservas online decide abandonar la página del restaurante para buscar una mejor opción.
+tras haber tardado en encontrar la carta y descubrir que el enlace a la parte de reservas te lleva a una página que te dice que el restaurante no acepta reservas online, decide abandonar la página del restaurante para buscar una mejor opción.
 
 
 
