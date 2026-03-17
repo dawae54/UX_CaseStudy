@@ -45,7 +45,7 @@ Miembros y nombre del equipo:
 
 # Proceso de Diseño 
 
-En este proyecto nos vamos a centrar en el entorno de la restauración, concretamente en el ambito de los restaurantes japoneses ambientados en la cultura pop de Japón. Nuestro restaurante tendrá temática de Pokemon, con platos basados en especies y movimientos de la serie. Como tal, la página web estará ambientada en dicha franquicia.
+En este proyecto nos vamos a centrar en el entorno de la restauración, concretamente en el ambito de los restaurantes japoneses ambientados en la cultura pop de Japón. Nuestro restaurante tendrá temática de Pokemon, con platos basados en especies y movimientos de la serie, y divididos según las regiones de su mundo. Como tal, la página web estará ambientada en dicha franquicia.
 
 
 
