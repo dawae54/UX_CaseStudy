@@ -9,7 +9,11 @@ Tras analizar los perfiles de Mía y María con sus mapas de empatía hemos dete
 Aunque la competencia (Animeramen) ofrece en general una buena experiencia, hay cuestiones en su página web que son mejorables, como la falta de reserva online para algunos de los locales, la dificultad para ver los detalles de los platos y la navegación a veces poco estándar.
 
 A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y hacerla más intuitiva, adaptándola tanto a personas interesadas en el anime y la cultura pop japonesa como a las que no lo están.
+
+![Malla receptora de información](imagenes/feedbackCaptureGrid.svg)
 * Point of View 
+![POV1](imagenes/pov1.svg)
+![POV2](imagenes/pov2.svg)
 
 
 ### PROPUESTA DE VALOR
