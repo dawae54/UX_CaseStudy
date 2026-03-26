@@ -18,6 +18,7 @@ A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y 
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
+![Scope Canvas](imagenes/ScopeCanvas.svg)
 
 
 ### TASK ANALYSIS
