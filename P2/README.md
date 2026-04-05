@@ -47,12 +47,12 @@ El sitemap es un esquema visual que muestra cómo se estructura la web: qué pá
 | Contacto                        | Página con un formulario que permite al usuario comunicarse con el restaurante. |
 | Reserva                         | Página que permite seleccionar fecha y hora disponibles y completar los datos necesarios para realizar una reserva. |
 
-Por otro lado, el labelling consiste en definir con cuidado los nombres que daremos a cada sección o elemento del sitio. Cada término va acompañado de una pequeña explicación sobre su función, lo que también nos ayuda a mantener consistencia en el diseño.
+Por otro lado, el labelling consiste en definir los nombres que daremos a cada sección o elemento del sitio. Cada término va acompañado de una pequeña explicación sobre su función.
 
 ### Prototipo Lo-FI Wireframe 
 
-Como parte del proceso de diseño centrado en el usuario, se han creado varios wireframes en baja fidelidad (Lo-Fi) que simulan la estructura visual de las pantallas principales de la web. Estos bocetos permiten definir la jerarquía de los elementos, probar ideas de distribución y validar la funcionalidad sin distraernos con detalles estéticos o visuales.
-Para crear estos bocetos hemos utilizado la plantilla disponible en Figma “Web Wireframe”.
+Como parte del proceso de diseño centrado en el usuario, se han creado varios wireframes que simulan la estructura visual de las pantallas principales de la web. Estos bocetos permiten definir la jerarquía de los elementos, la distribución de las secciones y la funcionalidad sin entrar en detalle.
+Se ha utilizado la herramienta de Figma y Penpot.
 Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia del usuario, a través de la corrección y mejora de la web estudiada en las secciones anteriores.
 
 ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
