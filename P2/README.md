@@ -30,11 +30,41 @@ A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-* Labelling 
 
+![Sitemap](imagenes/Sitemap.png)
+
+El sitemap es un esquema visual que muestra cómo se estructura la web: qué páginas existen, cómo se relacionan entre sí y qué elementos son comunes en toda la plataforma (como el navbar o el footer). Nos ayuda a tener una visión global de la navegación y a asegurarnos de que todo está bien conectado. Para crearlo hemos utilizado la herramienta FlowMapp.
+
+* Labelling 
+| Término                         | Significado                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| Página de Inicio                | Punto de entrada a la web con acceso a las principales funcionalidades e información básica del restaurante y su ubicación. |
+| Carta (Menú)                    | Página que muestra todos los platos disponibles, con opciones de filtrado y búsqueda. |
+| Carrito                         | Sección visible donde se almacenan los platos seleccionados por el usuario. |
+| Proceso de Pedido               | Página de confirmación donde el usuario revisa su pedido, introduce sus datos (como teléfono) y realiza el pago. |
+| Plato (Ventana modal / Popup)   | Ventana emergente que aparece al seleccionar un plato, mostrando información detallada, ingredientes e imágenes. |
+| Contacto                        | Página con un formulario que permite al usuario comunicarse con el restaurante. |
+| Reserva                         | Página que permite seleccionar fecha y hora disponibles y completar los datos necesarios para realizar una reserva. |
+
+Por otro lado, el labelling consiste en definir con cuidado los nombres que daremos a cada sección o elemento del sitio. Cada término va acompañado de una pequeña explicación sobre su función, lo que también nos ayuda a mantener consistencia en el diseño.
 
 ### Prototipo Lo-FI Wireframe 
 
+Como parte del proceso de diseño centrado en el usuario, se han creado varios wireframes en baja fidelidad (Lo-Fi) que simulan la estructura visual de las pantallas principales de la web. Estos bocetos permiten definir la jerarquía de los elementos, probar ideas de distribución y validar la funcionalidad sin distraernos con detalles estéticos o visuales.
+Para crear estos bocetos hemos utilizado la plantilla disponible en Figma “Web Wireframe”.
+Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia del usuario, a través de la corrección y mejora de la web estudiada en las secciones anteriores.
+
+![ReservasDesktop](imagenes/ReservasDesktop.png)
+
+![ReservasTablet](imagenes/ReservasTablet.png)
+
+![ReservasMovil](imagenes/ReservasMovil.png)
+
+![ContactoDesktop](imagenes/ContactoDesktop.png)
+
+![ContactoTablet](imagenes/ContactoTablet.png)
+
+![ContactoMovil](imagenes/ContactoMovil.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
