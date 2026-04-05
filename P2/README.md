@@ -36,6 +36,7 @@ A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y 
 El sitemap es un esquema visual que muestra cómo se estructura la web: qué páginas existen, cómo se relacionan entre sí y qué elementos son comunes en toda la plataforma (como el navbar o el footer). Nos ayuda a tener una visión global de la navegación y a asegurarnos de que todo está bien conectado. Para crearlo hemos utilizado la herramienta FlowMapp.
 
 * Labelling 
+
 | Término                         | Significado                                                                 |
 |----------------------------------|------------------------------------------------------------------------------|
 | Página de Inicio                | Punto de entrada a la web con acceso a las principales funcionalidades e información básica del restaurante y su ubicación. |
