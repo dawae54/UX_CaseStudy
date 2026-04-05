@@ -55,11 +55,14 @@ Como parte del proceso de diseño centrado en el usuario, se han creado varios w
 Para crear estos bocetos hemos utilizado la plantilla disponible en Figma “Web Wireframe”.
 Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia del usuario, a través de la corrección y mejora de la web estudiada en las secciones anteriores.
 
+ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
 ![ReservasDesktop](imagenes/ReservasDesktop.png)
 
 ![ReservasTablet](imagenes/ReservasTablet.png)
 
 ![ReservasMovil](imagenes/ReservasMovil.png)
+
+ADAPTACIONES DE LA PÁGINA DE CONTACTO A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
 
 ![ContactoDesktop](imagenes/ContactoDesktop.png)
 
