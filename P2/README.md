@@ -52,7 +52,7 @@ Por otro lado, el labelling consiste en definir los nombres que daremos a cada s
 ### Prototipo Lo-FI Wireframe 
 
 Como parte del proceso de diseño centrado en el usuario, se han creado varios wireframes que simulan la estructura visual de las pantallas principales de la web. Estos bocetos permiten definir la jerarquía de los elementos, la distribución de las secciones y la funcionalidad sin entrar en detalle.
-Se ha utilizado la herramienta de Figma y Penpot.
+Se ha utilizado la herramienta de Figma para crear los wireframes.
 Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia del usuario, a través de la corrección y mejora de la web estudiada en las secciones anteriores.
 
 ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
