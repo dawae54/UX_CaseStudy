@@ -56,19 +56,15 @@ Se ha utilizado la herramienta de Figma y Penpot.
 Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia del usuario, a través de la corrección y mejora de la web estudiada en las secciones anteriores.
 
 ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
-![ReservasDesktop](imagenes/ReservasDesktop.png)
+![ReservasDesktop](imagenes/reservasDesktop.png)
 
-![ReservasTablet](imagenes/ReservasTablet.png)
-
-![ReservasMovil](imagenes/ReservasMovil.png)
+![ReservasMovil](imagenes/reservasMovil.png)
 
 ADAPTACIONES DE LA PÁGINA DE CONTACTO A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
 
-![ContactoDesktop](imagenes/ContactoDesktop.png)
+![ContactoDesktop](imagenes/contactoDesktop.png)
 
-![ContactoTablet](imagenes/ContactoTablet.png)
-
-![ContactoMovil](imagenes/ContactoMovil.png)
+![ContactoMovil](imagenes/contactoMovil.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
