@@ -4,7 +4,7 @@
 
 * Mapa de empatía
 
-![EmpathyMapMiaPatiño](Empathy_Customer_Map_Mia_Patiño.png)
+![EmpathyMapMiaPatiño](Empathy_Customer_Map_Mia_Patiño.avif)
 
 * Malla receptora de información
 
@@ -32,6 +32,9 @@ A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y 
 
 * User Task Matrix 
 * User/Task flow
+
+Las tareas principales que va a hacer un usuario en nuestra página serán ver la carta, pedir comida, reservar mesa y contactar con el restaurante. Para ver la carta basta con entrar en la sección correspondiente. Desde ahí, se podrán seleccionar platos para pedir, tras lo cual se podrá confirmar el pedido. Las reservas se harán seleccionando un horario de entre los disponibles. El contacto se podrá hacer a través de un formulario, o a través de los canales de comunicación que estarán enlazados en la página.
+![Task Analysis](imagenes/taskAnalysis.svg)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
@@ -62,16 +65,19 @@ Como parte del proceso de diseño centrado en el usuario, se han creado varios w
 Se ha utilizado la herramienta de Figma para crear los wireframes.
 Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia del usuario, a través de la corrección y mejora de la web estudiada en las secciones anteriores.
 
-ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
+#### ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
 ![ReservasDesktop](imagenes/reservasDesktop.png)
 
 ![ReservasMovil](imagenes/reservasMovil.png)
 
-ADAPTACIONES DE LA PÁGINA DE CONTACTO A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
+#### ADAPTACIONES DE LA PÁGINA DE CONTACTO A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
 
 ![ContactoDesktop](imagenes/contactoDesktop.png)
 
 ![ContactoMovil](imagenes/contactoMovil.png)
+
+#### Carta
+![CartaDesktop](imagenes/wireframeCartaDesktop.svg)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)

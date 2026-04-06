@@ -178,6 +178,7 @@ Valoración de  la práctica: 
 * Análisis de Tareas (10%)
 * Mapa de sitio y etiquetado (10%) 
 * Bocetos (50%)
+
 El fichero se llamará {nombre_equipo}_P2. Ejemplo:
 
 El Grupo llamado ‘DIU1.GRANBIZ’ del grupo de prácticas DIU1 creara fichero DIU1_GRANADABIZ_P2.ZIP
