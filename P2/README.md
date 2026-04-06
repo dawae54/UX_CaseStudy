@@ -1,11 +1,12 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información
+
+* Mapa de empatía
 
 ![EmpathyMapMiaPatiño](Empathy_Customer_Map_Mia_Patiño.png)
 
-* Mapa de empatía
+* Malla receptora de información
 
 Tras analizar los perfiles de Mía y María con sus mapas de empatía hemos detectado diferencias importantes en los intereses de cada una. Mientras que a Mía le interesa el anime y la cultura japonesa, y busca un restaurante para acercarse a esta cultura, a María no le interesan especialmente estas cosas, siendo sus hijos los que la convencen de ir a un restaurante japonés.
 
@@ -14,8 +15,11 @@ Aunque la competencia (Animeramen) ofrece en general una buena experiencia, hay 
 A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y hacerla más intuitiva, adaptándola tanto a personas interesadas en el anime y la cultura pop japonesa como a las que no lo están.
 
 ![Malla receptora de información](imagenes/feedbackCaptureGrid.svg)
+
 * Point of View 
+
 ![POV1](imagenes/pov1.svg)
+
 ![POV2](imagenes/pov2.svg)
 
 
