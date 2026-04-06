@@ -3,7 +3,7 @@
 ### Ideación 
 * Malla receptora de información
 
-![EmpathyMapMiaPatiño](Empathy Customer Map Mia Patiño.png)
+![EmpathyMapMiaPatiño](Empathy_Customer_Map_Mia_Patiño.png)
 
 * Mapa de empatía
 
