@@ -1,7 +1,10 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* Malla receptora de información
+
+![EmpathyMapMiaPatiño](Empathy Customer Map Mia Patiño.png)
+
 * Mapa de empatía
 
 Tras analizar los perfiles de Mía y María con sus mapas de empatía hemos detectado diferencias importantes en los intereses de cada una. Mientras que a Mía le interesa el anime y la cultura japonesa, y busca un restaurante para acercarse a esta cultura, a María no le interesan especialmente estas cosas, siendo sus hijos los que la convencen de ir a un restaurante japonés.
