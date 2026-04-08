@@ -1,4 +1,8 @@
 # DIU - Practica2, entregables
+ * Daniel Villalobos Rueda
+ * Álvaro Berenguer Cobo
+ 
+ Repositorio: [https://github.com/dawae54/UX_CaseStudy](https://github.com/dawae54/UX_CaseStudy)
 
 ## Ideación 
 
