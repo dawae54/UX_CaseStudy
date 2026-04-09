@@ -9,6 +9,7 @@
 ### Mapa de empatía
 
 ![EmpathyMapMiaPatiño](imagenes/Empathy_Customer_Map_Mia_Patiño.webp)
+
 ![EmpathyMapMariaPerez](imagenes/empathyMapMariaPerez.webp)
 
 ### Malla receptora de información
