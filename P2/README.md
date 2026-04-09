@@ -25,6 +25,7 @@ A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y 
 
 
 ## PROPUESTA DE VALOR
+Nuestro proyecto tiene como objetivo hacer de la experiencia que es visitar la web de un restaurante algo lo más sencillo posible, para así poder llegar a todo tipo de clientes.
 ### ScopeCanvas
 ![Scope Canvas](imagenes/ScopeCanvas.svg)
 
@@ -87,12 +88,3 @@ Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia d
 
 ### Plato
 ![Plato](imagenes/wireframePlato.svg)
-
-
-
-## Conclusiones  
-(incluye valoración de esta etapa)
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica

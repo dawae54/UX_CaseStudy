@@ -139,18 +139,7 @@ En conclusión, este sitio tiene algunos puntos fuertes, pero tiene otros mejora
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
-
+Para la ideación del proyecto hemos usado varias herramientas, como mapas de empatía, POVs y fun Feedback Capture Grid
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
@@ -315,8 +304,4 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusiones finales & Valoración de las prácticas
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
-
-
-
+>>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona
