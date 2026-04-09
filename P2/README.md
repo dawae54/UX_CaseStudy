@@ -25,7 +25,6 @@ A partir de aquí, nos proponemos mejorar la accesibilidad de nuestra página y 
 ### Point of View 
 
 ![POV1](imagenes/pov1.svg)
-
 ![POV2](imagenes/pov2.svg)
 
 
@@ -40,6 +39,7 @@ Nuestro proyecto tiene como objetivo hacer de la experiencia que es visitar la w
 ### User/Task flow
 
 Las tareas principales que va a hacer un usuario en nuestra página serán ver la carta, pedir comida, reservar mesa y contactar con el restaurante. Para ver la carta basta con entrar en la sección correspondiente. Desde ahí, se podrán seleccionar platos para pedir, tras lo cual se podrá confirmar el pedido. Las reservas se harán seleccionando un horario de entre los disponibles. El contacto se podrá hacer a través de un formulario, o a través de los canales de comunicación que estarán enlazados en la página.
+
 ![Task Analysis](imagenes/taskAnalysis.svg)
 
 
@@ -78,13 +78,10 @@ Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia d
 
 ### ADAPTACIONES DE LA PÁGINA DE RESERVAS A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
 ![ReservasDesktop](imagenes/reservasDesktop.png)
-
 ![ReservasMovil](imagenes/reservasMovil.png)
 
 ### ADAPTACIONES DE LA PÁGINA DE CONTACTO A LOS DISTINTOS DISPOSITIVOS(RESPONSIVE):
-
 ![ContactoDesktop](imagenes/contactoDesktop.png)
-
 ![ContactoMovil](imagenes/contactoMovil.png)
 
 ### Carta
@@ -93,3 +90,9 @@ Cada uno de los wireframes creados tienen como objetivo mejorar la experiencia d
 
 ### Plato
 ![Plato](imagenes/wireframePlato.svg)
+
+### Dirección
+![Direccion](imagenes/wireframeDireccion.svg)
+
+### Datos de pago
+![Pago](imagenes/wireframePago.svg)
