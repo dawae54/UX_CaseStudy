@@ -133,8 +133,6 @@ En conclusión, este sitio tiene algunos puntos fuertes, pero tiene otros mejora
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
@@ -144,45 +142,37 @@ Para la ideación del proyecto hemos usado varias herramientas, como mapas de em
 En el caso de los mapas de empatía hemos estudiado el comportamiento de los usuarios propuestos en la parte anterior de la práctica ante diferentes estimulos externos.
 Después hemos analizado de manera generica los pros y contras obtenidos a través del analisis de los usuarios anteriores.
 Por último, hemos analizado los puntos de vista del servicio orientados a plantear soluciones que respondan de manera efectiva a las necesidades detectadas en los usuarios.
+
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
 En este apartado hemos desarrollado una plantilla, en la que se recolectan las necesidades y objetivos que tienen como principio el desarrollo de la página web del resturante. 
-Además, se han definido las métricas clave que permitirán evaluar el rendimiento de la web, con el fin de comprobar si cumple adecuadamente con los objetivos planteados. 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
+Además, se han definido las métricas clave que permitirán evaluar el rendimiento de la web, con el fin de comprobar si cumple adecuadamente con los objetivos planteados.
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+
 En este apartado se han definido los flujos de usuario (User Flow) y los flujos de tareas (Task Flow), representando los pasos que sigue un usuario para completar acciones específicas dentro de la web.
 Con este analisis del comportamiento del usuario, nos permite mejorar su experiencia.
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+
 En este apartado hemos desarrollado un esquema con la estructura de páginas que va a tener nuestra web junto a las secciones correspondientes de cada página especifica.
 Además hemos descrito cada una de estas secciones con términos claros y comprensibles para facilitar la interacción del usuario con la plataforma a través del labelling.
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+ 
 En esta sección hemos planteado los prottipos de las estructuras que van a tener las diferentes páginas de nuestra web y como se adaptan a los distintos tipos de dispositivos, en como se organiza la información al cambiar el tamaño de la pantalla.
 La elaboración de los wireframes se ha realizado a través de Figma.
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
