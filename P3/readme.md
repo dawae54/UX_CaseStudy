@@ -13,6 +13,18 @@ Para hacerla hemos usado Google Stich. Le pasamos las imágenes del moodboard y 
 
 ![landing page](img/landing.jpg)
 
+## Design System
+Para crear el design system de nuestro proyecto, hemos usado tanto la plantilla [Design System Foundation (Community)](https://www.figma.com/es-es/comunidad/file/1007839545438281461/design-system-foundation), de la que usamos varios componentes (después de adaptarlos), como el plugin [Foundation Studio | Design System Generator](https://www.figma.com/community/plugin/1576397531447817254/foundation-studio-design-system-generator), que usamos para generar la paleta de colores y la arquitectura tipográfica.
+
+### Átomos
+Además de adaptar los átomos de la plantilla con nuestros colores y tipos de letra, hemos añadido un componente donde se puede especificar la imagen de un plato, y una scrollbar para indicar cuándo es posible el desplazamiento vertical.
+
+### Moléculas
+A las moléculas que había en la plantilla hemos añadido otras, como una lista con las secciones de la carta, las tarjetas de los platos, o la confirmación del pedido.
+
+### Organismos
+Algunos de los organismos que hemos hecho han sido un menú lateral para la vista de móvil, una lista de platos para la landing page, varios formularios, secciones de la carta, la propia carta, el carrito con la lista de platos añadidos, la barra de navegación y una tarjeta con la información del restaurante.
+
 ## Mockup
 
 - Moodboard (diseño visual + logotipo)   
