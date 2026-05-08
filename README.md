@@ -184,34 +184,28 @@ La elaboración de los wireframes se ha realizado a través de Figma.
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
-
+En el moodboard hemos descrito la es
+ética que hemos implementado sobre nuestra página web, con una combinación de colores y fuentes que encajan entre sí.
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Hemos generado la landing page con IA usando Google Stitch, y tras algunos ajustes como quitarle elementos innecesarios y aumentar el contraste del texto, ha quedado bien.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos usado [Design System Foundation (Community)](https://www.figma.com/es-es/comunidad/file/1007839545438281461/design-system-foundation) para varios de los componentes, los cuales hemos adaptado a nuestro diseño, y el plulgin [Design System Generator](https://www.figma.com/community/plugin/1576397531447817254/foundation-studio-design-system-generator) para generar la paleta de colores y las tipografías.
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Hemos hecho los mockup para las mismas págtinas que teníamos en los wireframes, usando los componentes que habíamos creado en el paso anterior con el atomic design.
 
 
-<br>
 
 ## Paso 4. Pruebas de Evaluación 
 
