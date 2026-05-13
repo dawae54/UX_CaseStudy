@@ -1,18 +1,9 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Enlace a figma: https://www.figma.com/design/wTqAyZ7qD5dY66dDGsYn63/Moodboard-PokePok%C3%A9--Copia-?node-id=14056-530&t=Znph6dqHikqNTrDh-1
 
-* [Guiones de prácticas](GuionesPracticas/)
-* [Guía para crea tu Case Study](Guia_CaseStudy.md)
-* Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
+Enlace al prototipo de figma: https://www.figma.com/proto/wTqAyZ7qD5dY66dDGsYn63/Moodboard-PokePok%C3%A9--Copia-?node-id=14056-530&t=Znph6dqHikqNTrDh-1
 
-
-
-
-Actualizado: 14/01/2026
-
-
-
-
+Código: [P4_DIU](P4/P4_DIU)
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
