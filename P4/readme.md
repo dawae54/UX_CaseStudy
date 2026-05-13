@@ -1,5 +1,8 @@
 # Práctica 4: Componentes UI
 
+- Daniel Villalobos Rueda
+- Álvaro Berenguer Cobo
+
 ## Paso a producción (Figma Make)
 Enlace a figma: https://www.figma.com/design/wTqAyZ7qD5dY66dDGsYn63/Moodboard-PokePok%C3%A9--Copia-?node-id=14056-530&t=Znph6dqHikqNTrDh-1
 
