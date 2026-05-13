@@ -5,7 +5,8 @@ Enlace a figma: https://www.figma.com/design/wTqAyZ7qD5dY66dDGsYn63/Moodboard-Po
 
 Enlace al prototipo de figma: https://www.figma.com/proto/wTqAyZ7qD5dY66dDGsYn63/Moodboard-PokePok%C3%A9--Copia-?node-id=14056-530&t=Znph6dqHikqNTrDh-1
 
-> IMPORTANTE: Leer el [README](P4_DIU/README.md)
+**IMPORTANTE: Leer el [README](P4_DIU/README.md)**
+
 Código: [P4_DIU](P4_DIU)
 
 ## Briefing
