@@ -402,6 +402,7 @@ export default function MenuApp({ onNavigate }: MenuAppProps) {
   const [checkoutStep, setCheckoutStep] = useState<"none" | "address" | "payment">("none");
   const [menuOpen, setMenuOpen] = useState(false);
   const [showMobileCart, setShowMobileCart] = useState(false);
+  const [mobileSectionsOpen, setMobileSectionsOpen] = useState(false);
   const desktopScrollRef = useRef<HTMLDivElement | null>(null);
   const mobileScrollRef = useRef<HTMLDivElement | null>(null);
   const desktopSectionRefs = useRef<Record<Section, HTMLDivElement | null>>({
@@ -779,30 +780,54 @@ export default function MenuApp({ onNavigate }: MenuAppProps) {
         </div>
 
         {/* Sections */}
-        <button className="col-[1/span_3] cursor-pointer justify-self-stretch relative row-2 self-start shrink-0">
-          <div className="flex flex-row items-center size-full">
-            <div className="content-stretch flex gap-[10px] items-center p-[8px] relative size-full">
-              <div className="overflow-clip relative shrink-0 size-[24px]">
-                <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4">
-                  <div className="absolute inset-[-8.33%_-6.25%]">
-                    <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 18 14">
-                      <path d="M1 13H17M1 1H17H1ZM1 7H9H1Z" stroke="#3F3F46" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" />
-                    </svg>
+        <div className="col-[1/span_3] justify-self-stretch relative row-2 self-start shrink-0">
+          <button onClick={() => setMobileSectionsOpen(!mobileSectionsOpen)} className="cursor-pointer w-full">
+            <div className="flex flex-row items-center size-full">
+              <div className="content-stretch flex gap-[10px] items-center p-[8px] relative size-full">
+                <div className="overflow-clip relative shrink-0 size-[24px]">
+                  <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4">
+                    <div className="absolute inset-[-8.33%_-6.25%]">
+                      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 18 14">
+                        <path d="M1 13H17M1 1H17H1ZM1 7H9H1Z" stroke="#3F3F46" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" />
+                      </svg>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div className="flex flex-col font-['Quicksand:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-black text-left whitespace-nowrap">
-                <p className="leading-[32px]">Secciones</p>
-              </div>
-              <div className="bg-[#edf8ef] flex-[1_0_0] h-[40px] min-w-px relative rounded-[8px]">
-                <div aria-hidden="true" className="absolute border border-[#d1edd5] border-solid inset-0 pointer-events-none rounded-[8px]" />
-                <p className="absolute font-['Quicksand:Regular',sans-serif] font-normal leading-[32px] left-[16px] right-[14px] text-[#0b0d10] text-[25px] text-left top-[calc(50%-16px)]">
-                  Buscar...
-                </p>
+                <div className="flex flex-col font-['Quicksand:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-black text-left whitespace-nowrap">
+                  <p className="leading-[32px]">Secciones</p>
+                </div>
+                <div className="bg-[#edf8ef] flex-[1_0_0] h-[40px] min-w-px relative rounded-[8px] flex items-center justify-between px-[16px]">
+                  <div aria-hidden="true" className="absolute border border-[#d1edd5] border-solid inset-0 pointer-events-none rounded-[8px]" />
+                  <p className="font-['Quicksand:Regular',sans-serif] font-normal leading-[32px] text-[#0b0d10] text-[25px] text-left relative z-10">
+                    {activeSection}
+                  </p>
+                  <svg className="w-[16px] h-[16px] relative z-10" fill="none" viewBox="0 0 16 16">
+                    <path d={mobileSectionsOpen ? "M4 10L8 6L12 10" : "M4 6L8 10L12 6"} stroke="#0b0d10" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                  </svg>
+                </div>
               </div>
             </div>
-          </div>
-        </button>
+          </button>
+
+          {mobileSectionsOpen && (
+            <div className="absolute top-full left-0 right-0 bg-white border border-[#d1edd5] rounded-[8px] mt-[4px] mx-[8px] shadow-lg z-50">
+              {sections.map((section) => (
+                <button
+                  key={section}
+                  onClick={() => {
+                    scrollToSection(section);
+                    setMobileSectionsOpen(false);
+                  }}
+                  className={`w-full text-left px-[16px] py-[12px] font-['Quicksand:Regular',sans-serif] font-normal text-[20px] ${
+                    activeSection === section ? 'bg-[#fcdfdf] text-[#f2a5a9]' : 'text-black hover:bg-[#f5f5f5]'
+                  } transition-colors first:rounded-t-[8px] last:rounded-b-[8px]`}
+                >
+                  {section}
+                </button>
+              ))}
+            </div>
+          )}
+        </div>
 
         {/* Main Content */}
         <div className="col-[1/span_3] justify-self-stretch relative row-3 self-stretch shrink-0">
