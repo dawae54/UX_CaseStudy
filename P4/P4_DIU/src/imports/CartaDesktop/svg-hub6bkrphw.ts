@@ -1,0 +1,3 @@
+export default {
+p38adf480: "M14 8H8V14H6V8H0V6H6V0H8V6H14V8Z",
+}
