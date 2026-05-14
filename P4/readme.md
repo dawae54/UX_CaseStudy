@@ -8,9 +8,13 @@ Enlace a figma: https://www.figma.com/design/wTqAyZ7qD5dY66dDGsYn63/Moodboard-Po
 
 Enlace al prototipo de figma: https://www.figma.com/proto/wTqAyZ7qD5dY66dDGsYn63/Moodboard-PokePok%C3%A9--Copia-?node-id=14056-530&t=Znph6dqHikqNTrDh-1
 
+Enlace a figma make: https://www.figma.com/make/kelefy5ALwrs2jt1ZcqQYE/P4_DIU?t=7mMeNsb3q3IOgQDY-20&fullscreen=1
+
 **IMPORTANTE: Leer el [README](P4_DIU/README.md)**
 
 Código: [P4_DIU](P4_DIU)
+
+Código comprimido: [P4_DIU.tar.xz](P4_DIU.tar.xz)
 
 ## Briefing
 
